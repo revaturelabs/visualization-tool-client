@@ -113,6 +113,9 @@
             "devServerTarget": "project3-cvt:serve"
           },
           "configurations": {
+            "noserve": {
+              "devServerTarget": ""
+            },
             "production": {
               "devServerTarget": "project3-cvt:serve:production"
             }
