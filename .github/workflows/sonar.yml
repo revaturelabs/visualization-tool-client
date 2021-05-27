@@ -1,6 +1,6 @@
 # This workflow will do a clean install of node dependencies, build the source code and run tests for node 12
 
-name: angular-sonar
+name: Build
 
 on:
   push:
